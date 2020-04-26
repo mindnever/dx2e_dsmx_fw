@@ -12,24 +12,24 @@ MCU pin maps
 <tr><td>PA6</td><td>Vbat</td><td>(ADC)</td></tr>
 <tr><td>PA7</td><td>CYRF / RF</td><td>cut trace and connect 3 pos AUX SW</td></tr>
 <tr><td>PA8</td><td>CYRF IRQ</td><td>cut trace and use as LED2</td></tr>
-<tr><td>PA9</td><td>J4_TX1</td></td><td></tr>
-<tr><td>PA10</td><td>J4_RX1</td></td><td></tr>
-<tr><td>PA11</td><td>RF module TX_EN</td></td><td></tr>
-<tr><td>PA12</td><td>RF module RX_EN</td></td><td></tr>
-<tr><td>PA13</td><td>DBG_SWDIO</td></td><td></tr>
-<tr><td>PA14</td><td>DBG_SWCLK</td></td><td></tr>
-<tr><td>PA15</td><td>RF module SPI_SS</td></td><td></tr>
-<tr><td>PB0</td><td>RF module RST</td></td><td></tr>
-<tr><td>PB1</td><td>Power_off_bypass</td></tr>
+<tr><td>PA9</td><td>J4_TX1</td><td></td></tr>
+<tr><td>PA10</td><td>J4_RX1</td><td></td></tr>
+<tr><td>PA11</td><td>RF module TX_EN</td><td></td></tr>
+<tr><td>PA12</td><td>RF module RX_EN</td><td></td></tr>
+<tr><td>PA13</td><td>DBG_SWDIO</td><td></td></tr>
+<tr><td>PA14</td><td>DBG_SWCLK</td><td></td></tr>
+<tr><td>PA15</td><td>RF module SPI_SS</td><td></td></tr>
+<tr><td>PB0</td><td>RF module RST</td><td></td></tr>
+<tr><td>PB1</td><td>Power_off_bypass</td><td></td></tr>
 <tr><td>PB2</td><td>S2</td><td>bind button</td></tr>
-<tr><td>PB3</td><td>RF module SPI_SCK</td></td><td></tr>
-<tr><td>PB4</td><td>RF module SPI_MISO</td></td><td></tr>
-<tr><td>PB5</td><td>RF module SPI_MOSI</td></td><td></tr>
+<tr><td>PB3</td><td>RF module SPI_SCK</td><td></td></tr>
+<tr><td>PB4</td><td>RF module SPI_MISO</td><td></td></tr>
+<tr><td>PB5</td><td>RF module SPI_MOSI</td><td></td></tr>
 <tr><td>PB6</td><td>D1</td><td>LED</td></tr>
 <tr><td>PB7</td><td>S3</td><td>th direction</td></tr>
 <tr><td>PB8</td><td>S4</td><td>st direction</td></tr>
-<tr><td>PF0/OSC_IN</td><td>RF module XOUT</td></td><td></tr>
-<tr><td>PF1/OSC_OUT</td><td>TP3</td></td><td></tr>
+<tr><td>PF0/OSC_IN</td><td>RF module XOUT</td><td></td></tr>
+<tr><td>PF1/OSC_OUT</td><td>TP3</td><td></td></tr>
 </table>
 
 CYRF STUFF
