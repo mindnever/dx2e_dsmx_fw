@@ -33,15 +33,17 @@ MCU pin maps
 </table>
 
 CYRF STUFF
-SPI_SS	24	OK
-SPI_SCK	25	OK
-IRQ	26	OK
-MOSI	27	OK
-MISO	28	OK
-XOUT	29	OK
-PACTL	30	
-RST	34	OK
-		
+
+<table>	
+	<tr><td>SPI_SS</td><td>24</td></tr>
+<tr><td>SPI_SCK	</td><td>25</td></tr>
+<tr><td>IRQ</td><td>	26</td></tr>
+<tr><td>MOSI</td><td>	27</td></tr>
+<tr><td>MISO	</td><td>28</td></tr>
+<tr><td>XOUT</td><td>	29</td></tr>
+<tr><td>PACTL</td><td>	30</td></tr>
+<tr><td>RST</td><td>	34</td></tr>
+	</table>	
 
 J4
 1.	VDD
